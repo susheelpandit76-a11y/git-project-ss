@@ -8,8 +8,4 @@
 - My First Webpage: A simple HTML page about myself
 - Git Lab Project: A repository to practice version control
 
-## Social Links
-- GitHub: https://github.com
-- LinkedIn: https://linkedin.com
-
 
